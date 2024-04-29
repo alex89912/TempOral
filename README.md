@@ -1,6 +1,6 @@
 # TempOral
 
-TempOral is a programming language designed to provide a dynamic and interactive coding experience. With TempOral, your code updates in real-time as soon as you save your application. No more waiting for compilation or execution - see your changes come to life instantly!
+TempOral is an interpreted programming language designed to provide a dynamic and interactive coding experience. With TempOral, your code updates in real-time as soon as you save your application. No more waiting for compilation or execution - see your changes come to life instantly!
 
 ## How it Works
 
