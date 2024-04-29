@@ -20,7 +20,7 @@ To start using TempOral, follow these simple steps:
 
 2. **Write Your Code**: Use your preferred text editor or IDE to write TempOral code. TempOral syntax is intuitive and easy to learn.
 
-3. **Save Your App**: Save your TempOral application files. As soon as you save, TempOral will update your running application to reflect the changes.
+3. **Save Your App**: Save your TempOral application files. As soon as you save, TempOral will update your running application to reflect the changes immediately (needs the flag `--restart-on-edit` and `--file <file name>`).
 
 4. **Experiment and Iterate**: Explore different ideas, tweak parameters, and debug issues in real-time. TempOral empowers you to iterate rapidly and see the effects of your changes instantly.
 
@@ -33,16 +33,11 @@ Here's a simple example of TempOral code:
 print("Hello, World!");
 ```
 
-Save this code, and you'll immediately see "Hello, World!" printed to the console without any additional steps.
-
 ## Contributing
 
-Contributions to TempOral are welcome! Whether you want to report a bug, suggest a feature, or submit a pull request, we appreciate your involvement. Please refer to the [contribution guidelines](CONTRIBUTING.md) for more information.
+Contributions to TempOral are welcome! Whether you want to report a bug, suggest a feature, or submit a pull request, I will truly appreciate your involvement.
 
 ## License
 
 TempOral is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to reach out with any questions or feedback. Happy coding with TempOral! 🚀
