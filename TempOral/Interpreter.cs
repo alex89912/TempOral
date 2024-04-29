@@ -12,17 +12,15 @@ namespace TempOralApp
             List<Lexer.Token> tokens = lexer.Tokenize(temporalCode);
 
             // Placeholder implementation for interpreting TempOral code
-            foreach (var token in tokens)
-            {
-                //Console.WriteLine($"Token Type: {token.Type}, Value: {token.Value}");
-            }
-
+            //foreach (var token in tokens)
+            //{
+            //    //Console.WriteLine($"Token Type: {token.Type}, Value: {token.Value}");
+            //}
+            
             // Implement logic to execute the TempOral code based on the tokens
             ExecuteTokens(tokens);
         }
 
-        // Method to execute the TempOral code based on the tokens
-        // Method to execute the TempOral code based on the tokens
         private void ExecuteTokens(List<Lexer.Token> tokens)
         {
             for (int i = 0; i < tokens.Count; i++)

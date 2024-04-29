@@ -1,0 +1,2 @@
+/workspaces/TempOral/TempOral/bin/Release/net8.0/win-x64/publish/TempOral.pdb
+/workspaces/TempOral/TempOral/bin/Release/net8.0/win-x64/publish/TempOral.exe
