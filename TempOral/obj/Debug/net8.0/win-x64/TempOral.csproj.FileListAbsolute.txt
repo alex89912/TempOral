@@ -1,0 +1,15 @@
+/workspaces/TempOral/TempOral/bin/Debug/net8.0/win-x64/TempOral.exe
+/workspaces/TempOral/TempOral/bin/Debug/net8.0/win-x64/TempOral.deps.json
+/workspaces/TempOral/TempOral/bin/Debug/net8.0/win-x64/TempOral.runtimeconfig.json
+/workspaces/TempOral/TempOral/bin/Debug/net8.0/win-x64/TempOral.dll
+/workspaces/TempOral/TempOral/bin/Debug/net8.0/win-x64/TempOral.pdb
+/workspaces/TempOral/TempOral/obj/Debug/net8.0/win-x64/TempOral.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TempOral/TempOral/obj/Debug/net8.0/win-x64/TempOral.AssemblyInfoInputs.cache
+/workspaces/TempOral/TempOral/obj/Debug/net8.0/win-x64/TempOral.AssemblyInfo.cs
+/workspaces/TempOral/TempOral/obj/Debug/net8.0/win-x64/TempOral.csproj.CoreCompileInputs.cache
+/workspaces/TempOral/TempOral/obj/Debug/net8.0/win-x64/TempOral.sourcelink.json
+/workspaces/TempOral/TempOral/obj/Debug/net8.0/win-x64/TempOral.dll
+/workspaces/TempOral/TempOral/obj/Debug/net8.0/win-x64/refint/TempOral.dll
+/workspaces/TempOral/TempOral/obj/Debug/net8.0/win-x64/TempOral.pdb
+/workspaces/TempOral/TempOral/obj/Debug/net8.0/win-x64/TempOral.genruntimeconfig.cache
+/workspaces/TempOral/TempOral/obj/Debug/net8.0/win-x64/ref/TempOral.dll
